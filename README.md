@@ -18,9 +18,6 @@
 ---
 
 ### 🎬 Platform & Ecosystem Preview
-<dalign="center">
-  <img src="assets/preview.gif" alt="STEMIC Platform Preview" width="100%" />
-</div>
 
 ---
 
